@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/ultra/static/css/main.f176f45b.css",
+    "main.js": "/ultra/static/js/main.71a3ff1e.js",
+    "static/js/787.e1ee0426.chunk.js": "/ultra/static/js/787.e1ee0426.chunk.js",
+    "static/media/third.png": "/ultra/static/media/third.897bc8876bf2a1ff5d1f.png",
+    "static/media/second.png": "/ultra/static/media/second.1eacd7420b2caf82f2a4.png",
+    "static/media/smm.png": "/ultra/static/media/smm.3ee18d563cf337e24940.png",
+    "static/media/banner.png": "/ultra/static/media/banner.331e925373605ef9cbba.png",
+    "static/media/first.png": "/ultra/static/media/first.1732d29a5fa11c49cb12.png",
+    "static/media/seo.png": "/ultra/static/media/seo.8bc305f69b4b49822ba8.png",
+    "static/media/aboutus.png": "/ultra/static/media/aboutus.74c193f91e17eebedda0.png",
+    "static/media/prog.png": "/ultra/static/media/prog.fc2c0b2b0373834c4b2f.png",
+    "static/media/Montserrat-Regular.ttf": "/ultra/static/media/Montserrat-Regular.ac98a5f5ca71180fe293.ttf",
+    "static/media/design.png": "/ultra/static/media/design.06ab2bebcf3d2f6027ff.png",
+    "static/media/carusel3.png": "/ultra/static/media/carusel3.2077f8f8ab7e702231a8.png",
+    "static/media/carusel1.png": "/ultra/static/media/carusel1.e688635438273af636a5.png",
+    "static/media/carusel2.png": "/ultra/static/media/carusel2.245e63e5481b32515ddb.png",
+    "static/media/carusel7.png": "/ultra/static/media/carusel7.b31cb987afbc75f2e555.png",
+    "static/media/carusel6.png": "/ultra/static/media/carusel6.822c6d23a46d19b21de3.png",
+    "static/media/carusel4.png": "/ultra/static/media/carusel4.520eb0628fe2d48677b6.png",
+    "static/media/revicons.eot": "/ultra/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/ultra/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/ultra/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/ultra/index.html",
+    "main.f176f45b.css.map": "/ultra/static/css/main.f176f45b.css.map",
+    "main.71a3ff1e.js.map": "/ultra/static/js/main.71a3ff1e.js.map",
+    "787.e1ee0426.chunk.js.map": "/ultra/static/js/787.e1ee0426.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f176f45b.css",
+    "static/js/main.71a3ff1e.js"
+  ]
+}
